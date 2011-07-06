@@ -10,6 +10,7 @@
 		private var yOffset:Number;
 		private var yMin:Number;
 		private var yMax:Number;
+		private var test:String;
 		
 		public function ScrollBar():void
 		{
